@@ -2,7 +2,7 @@
 $(document).ready(Pong)
 
 function Pong() {
-
+//yorummmm
     var canvas = $("#myCanvas");
     var context = canvas.get(0).getContext("2d");
     var canvasWidth = canvas.width();
